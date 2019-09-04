@@ -28,3 +28,5 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/core33g/proprietary/lib/libuvdenoise.so:system/vendor/lib/libuvdenoise.so \
     vendor/samsung/core33g/proprietary/lib/libcamsensors.so:system/vendor/lib/libcamsensors.so \
     vendor/samsung/core33g/proprietary/lib/hw/sensors.vendor.sc8830.so:system/vendor/lib/hw/sensors.vendor.sc8830.so \
+    vendor/samsung/core33g/proprietary/lib/libsensorservice.so:system/lib/libsensorservice.so \
+    vendor/samsung/core33g/proprietary/lib/hw/sensors.sc8830.so:system/lib/hw/sensors.sc8830.so
